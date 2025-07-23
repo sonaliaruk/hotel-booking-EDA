@@ -1,4 +1,5 @@
-#🏨 Hotel Booking Analysis 📊✨
+# 🏨 Hotel Booking Analysis 📊✨
+
 In the competitive landscape of the hospitality industry, data-driven insights are essential! This project delves into hotel booking data to uncover valuable patterns in customer behavior, booking trends, and business performance. By exploring key metrics, we provide actionable intelligence to help hotels optimize their operations and boost revenue. 📈
 
 🔍 What is this project about?
