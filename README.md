@@ -11,12 +11,16 @@ This analysis hotel booking data to answer important questions:
 
 * How do booking patterns vary across different seasons or customer types? 🧳
 
- Key Highlights ✨
+ # Key Highlights ✨
+ 
 🧹 Data Wrangling: Cleaning messy data to ensure accuracy and consistency.
+
 📊 EDA (Exploratory Data Analysis): Visualizing trends in bookings, cancellation to gain meaningful insights.
+
 💡 Insights & Recommendations: Providing actionable guidance to improve booking rates and customers satisfaction.
 
-🎯 Final Recommendations
+
+# 🎯 Final Recommendations
 * Focus on Short-Lead Bookings: Encourage last-minute deals, as short lead time bookings are more likely to be honored.
 
 * Target Loyal Segments: Reward repeated guests from the Transient category with offers or discounts to build retention.
